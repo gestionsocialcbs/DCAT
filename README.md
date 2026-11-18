@@ -9,3 +9,7 @@ Tablero de análisis de inscripciones y asistencias de Capacitación y Adiestram
 3. El tablero quedará disponible en `https://<usuario>.github.io/<repositorio>/`.
 
 El archivo es autónomo: incluye los datos (comprimidos), las imágenes, los planos y la tipografía. Solo requiere conexión para cargar la biblioteca de gráficas D3 desde cdnjs.
+
+## Planos arquitectónicos
+
+Las imágenes de los planos están en la carpeta `planos/`. Súbala al repositorio junto con `index.html`, sin cambiar su nombre ni su ubicación.
